@@ -1,0 +1,45 @@
+#green {
+  background-color: rgb(30, 255, 41);
+  color: beige;
+  text-align: center;
+}
+
+#blue {
+  background-color: rgb(37, 22, 170);
+  color: beige;
+  text-align: center;
+}
+
+#red {
+  background-color: rgb(255, 30, 30);
+  color: beige;
+  text-align: center;
+}
+
+#black {
+  background-color: rgb(2, 1, 8);
+  color: beige;
+  text-align: center;
+}
+i {
+  background-color: #cfd2da;
+  font-size: larger;
+  border-radius: 5px;
+}
+
+#next {
+background-color:#333333;
+ color:#00FF00;
+ font-size: larger; 
+ border-radius:5px;
+}
+
+.gimli { 
+    background-color:#333333; color:#d4e0d4;font-size: larger; border: radius 12cm"
+}
+
+div {
+    color: red;
+    border: 3px solid black;
+
+}
